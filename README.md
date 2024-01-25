@@ -1,5 +1,5 @@
 # delta
-this is a demo for git and github account .....
+this is a demo for git and github account ...
 
 
 
